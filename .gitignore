@@ -66,3 +66,7 @@ my_*
 /person_pb2.py
 /datasets
 
+# for ttm
+env/
+pycache/
+.DS_Store
